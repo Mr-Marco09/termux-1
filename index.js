@@ -208,4 +208,3 @@ console.log("Commande détectée :", cmd);
  })
 }
 startBot()
-~/my---m $
